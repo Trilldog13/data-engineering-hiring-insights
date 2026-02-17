@@ -70,7 +70,7 @@ The challenge was intentionally practical. It assessed applied engineering abili
 
 To address the issue, we made a structural change:
 
-We swapped Stages 1 and 2 — moving the technical take-home earlier in the funnel and positioning the Hiring Manager conversation after technical validation.
+We swapped Stages 1 and 2 moving the technical take-home earlier in the funnel and positioning the Hiring Manager conversation after technical validation.
 
 This ensured:
 
